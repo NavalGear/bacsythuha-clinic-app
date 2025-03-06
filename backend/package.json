@@ -11,6 +11,9 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^4.21.2"
+    "@supabase/supabase-js": "^2.49.1",
+    "express": "^4.21.2",
+    "node-cron": "^3.0.3",
+    "winston": "^3.17.0"
   }
 }
